@@ -12,7 +12,7 @@ It uses **in-browser Machine Learning** to identify an item and instantly tell y
 ## Installation & Usage
 1. Clone the repository:  
 git clone https://github.com/devika-nambisan/TerraNova.git
-2. Open the file `terranova-app-final3.html` in your browser and start saving the planet! 🌍  
+2. Open the file `terranova-app.html` in your browser and start saving the planet! 🌍  
 
 ## Inspiration
 Every day, millions of people want to do the right thing for the planet — to recycle, compost, or properly dispose of waste — but it’s not always obvious where things go.
