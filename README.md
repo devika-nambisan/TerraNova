@@ -7,7 +7,7 @@ It uses **in-browser Machine Learning** to identify an item and instantly tell y
 - **ML Classification:** Uses MobileNet (TensorFlow.js) to identify items as Plastic, Glass, Paper, Metal, Compostable, or E-Waste.  
 - **Localized Guidance:** Shows exactly how to dispose of your items and helps you find nearby recycling or hazardous drop-off centers on a cute, interactive **Leaflet.js map**.  
 - **Gamified Habit:** Earn stars 🌟 for correct disposal and watch your **Galaxy grow**, making recycling fun and motivating!  
-- **100% Frontend:** Built with HTML, CSS, and Vanilla JavaScript — runs fast in any browser, no downloads needed.
+- **100% Frontend:** Built with HTML, CSS, and JavaScript — runs fast in any browser, no downloads needed.
 
 ## Installation & Usage
 1. Clone the repository:  
@@ -28,7 +28,7 @@ _"TerraNova"_ means **“New Earth,”** and our mission is to make eco-friendly
 6. Dispose correctly and **earn stars for your Galaxy**! 
 
 ## Tech & Implementation
-- **Frontend:** HTML, CSS, Vanilla JavaScript  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Machine Learning:** MobileNet via TensorFlow.js  
 - **Camera Access:** `navigator.mediaDevices.getUserMedia()`  
 - **Map:** Leaflet.js + OpenStreetMap tiles  
