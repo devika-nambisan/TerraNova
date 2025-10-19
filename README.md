@@ -1,0 +1,1 @@
+TerraNova is a hackathon project built at HackTx to simplify responsible waste disposal. It uses in-browser Machine Learning to instantly identify an item and provide accurate, location-relevant disposal instructions. Our goal is to make sustainability effortless and rewarding.
